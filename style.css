@@ -8,6 +8,20 @@ html, body {
     padding: 0;
 }
 
+h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin: 0;
+    margin-bottom: 3rem;
+}
+
+p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
 .max-width-wrapper {
     max-width: 800px;
     margin: 0 auto;

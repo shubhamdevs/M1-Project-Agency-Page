@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.max-width-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.intro-chunk {
+   max-width: 415px;
+   padding-top: 96px;
+   padding-bottom: 64px;
+}
+
+main {
+    background-color: hsl(0deg, 0%, 40%);
+    padding: 64px 0;  
+}
+
+.card {
+    background-color: white;
+    padding: 0 24px;
+    margin: 0 -24px;
+}
